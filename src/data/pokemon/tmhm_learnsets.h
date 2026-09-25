@@ -10179,5 +10179,12 @@ const union {
         .SNATCH = TRUE,
         .FLASH = TRUE,
     } },
+        [SPECIES_BOOPYSHIT] = { .learnset = {
+        .ERUPTION = TRUE,
+        .TOXIC = TRUE,
+        .EXPLOSION = TRUE,
+        .TRIPLE_KICK = TRUE,
+        .SLUDGE_BOMB = TRUE,
+    } },
 
 };

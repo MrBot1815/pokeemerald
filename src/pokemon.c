@@ -518,6 +518,7 @@ static const u16 sSpeciesToHoennPokedexNum[NUM_SPECIES - 1] =
     SPECIES_TO_HOENN(JIRACHI),
     SPECIES_TO_HOENN(DEOXYS),
     SPECIES_TO_HOENN(CHIMECHO),
+    SPECIES_TO_HOENN(BOOPYSHIT),
 };
 
 // Assigns all species to the National Dex Index (Summary No. for National Dex)

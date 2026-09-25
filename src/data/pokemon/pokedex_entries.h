@@ -4643,4 +4643,15 @@ const struct PokedexEntry gPokedexEntries[] =
         .trainerScale = 290,
         .trainerOffset = 2,
     },
+     [NATIONAL_DEX_BOOPYSHIT] =
+    {
+        .categoryName = _("BITCHASS"),
+        .height = 5,
+        .weight = 5086,
+        .description = gBoopyshitPokedexText,
+        .pokemonScale = 8,
+        .pokemonOffset = 0,
+        .trainerScale = 290,
+        .trainerOffset = 2,
+    },
 };

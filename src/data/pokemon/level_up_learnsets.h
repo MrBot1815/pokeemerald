@@ -5615,3 +5615,9 @@ static const u16 sChimechoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(46, MOVE_PSYCHIC),
     LEVEL_UP_END
 };
+static const u16 sBoopyshitLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_EXPLOSION),
+    LEVEL_UP_MOVE( 6, MOVE_ERUPTION),
+    LEVEL_UP_MOVE( 9, MOVE_TRIPLE_KICK),
+    LEVEL_UP_MOVE(14, MOVE_SLUDGE_BOMB),
+    LEVEL_UP_END

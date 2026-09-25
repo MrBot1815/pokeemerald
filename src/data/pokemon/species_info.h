@@ -11666,3 +11666,33 @@ const struct SpeciesInfo gSpeciesInfo[] =
         .noFlip = FALSE,
     }
 };
+    [SPECIES_BOOPYSHIT] =
+    {
+        .baseHP        = 69420,
+        .baseAttack    = 1,
+        .baseDefense   = 69420,
+        .baseSpeed     = 1,
+        .baseSpAttack  = 1,
+        .baseSpDefense = 69420,
+        .types = { TYPE_ROCK, TYPE_POISON },
+        .catchRate = 255,
+        .expYield = 147,
+        .evYield_HP        = 0,
+        .evYield_Attack    = 0,
+        .evYield_Defense   = 3,
+        .evYield_Speed     = 0,
+        .evYield_SpAttack  = 1,
+        .evYield_SpDefense = 1,
+        .itemCommon = ITEM_NONE,
+        .itemRare   = ITEM_NONE,
+        .genderRatio = PERCENT_MALE(100),
+        .eggCycles = 25,
+        .friendship = STANDARD_FRIENDSHIP,
+        .growthRate = GROWTH_FAST,
+        .eggGroups = { EGG_GROUP_DITTO, EGG_GROUP_AMORPHOUS },
+        .abilities = {ABILITY_LEVITATE, ABILITY_NONE},
+        .safariZoneFleeRate = 0,
+        .bodyColor = BODY_COLOR_BLUE,
+        .noFlip = FALSE,
+    }
+};
